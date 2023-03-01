@@ -2,9 +2,9 @@
 Vibration for game unity
 ## How to install
 Add the lines below to ``Packages/manifest.json``
--   For version ``1.0.0``
+-   For version ``1.0.1``
 ```
-"com.virtuesky.nicevibrations": "https://github.com/VirtueSky/nice-vibrations-unity.git#1.0.0",
+"com.virtuesky.nicevibrations": "https://github.com/VirtueSky/nice-vibrations-unity.git#1.0.1",
 ```
 How to use?
 - You need to add the above link in manifest.json in folder Package
