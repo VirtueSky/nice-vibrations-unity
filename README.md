@@ -22,7 +22,7 @@ MMVibrationManager.Haptic(HapticTypes.MediumImpact);
 ```
 - HapticTypes include (``Selection, Success, Warning, Failure, LightImpact, MediumImpact, HeavyImpact, RigidImpact, SoftImpact, None``). You should choose the haptic style that suits your purpose
 
-### If your project is missing Newtonsoft Json
+## If your project is missing Newtonsoft Json
 You need add the lines below to ``Packages/manifest.json``
 ```
 "com.virtuesky.newtonsoftjson": "https://github.com/VirtueSky/Newtonsoft-Json.git#1.0.0",
